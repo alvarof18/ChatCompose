@@ -80,6 +80,9 @@ fun ChatApp() {
             }
         }
         SendMessage()
+        Row {
+
+        }
     }
 }
 
